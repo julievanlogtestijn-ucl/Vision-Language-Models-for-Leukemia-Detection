@@ -1,0 +1,1213 @@
+image_path,image_filename,page_number,cell_type,binary_label,description,full_text,source
+/content/blood_cell_dataset/images/page_4_img_3_healthy.jpg,page_4_img_3_healthy.jpg,4,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"04
+The cells are 10–15 μm in diameter, round-shaped with typically rod-shaped,
+band-like, or sausage-like nuclei, having coarse, agglutinated nuclear
+chromatin in deep violet-pink color. The cytoplasm is abundant and pink,
+with a large number of small violet-pink granules.
+Band Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_4_img_4_healthy.jpg,page_4_img_4_healthy.jpg,4,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"04
+The cells are 10–15 μm in diameter, round-shaped with typically rod-shaped,
+band-like, or sausage-like nuclei, having coarse, agglutinated nuclear
+chromatin in deep violet-pink color. The cytoplasm is abundant and pink,
+with a large number of small violet-pink granules.
+Band Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_4_img_6_healthy.jpg,page_4_img_6_healthy.jpg,4,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"04
+The cells are 10–15 μm in diameter, round-shaped with typically rod-shaped,
+band-like, or sausage-like nuclei, having coarse, agglutinated nuclear
+chromatin in deep violet-pink color. The cytoplasm is abundant and pink,
+with a large number of small violet-pink granules.
+Band Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_4_img_7_healthy.jpg,page_4_img_7_healthy.jpg,4,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"04
+The cells are 10–15 μm in diameter, round-shaped with typically rod-shaped,
+band-like, or sausage-like nuclei, having coarse, agglutinated nuclear
+chromatin in deep violet-pink color. The cytoplasm is abundant and pink,
+with a large number of small violet-pink granules.
+Band Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_5_img_2_healthy.jpg,page_5_img_2_healthy.jpg,5,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"05
+Band neutrophil granulocytes increased or/and the presence of
+metamyelocytes, myelocytes, or even promyelocytes in peripheral blood are
+referred to as a ""left shift"" and commonly seen in infections (especially acute
+septic infections), acute poisoning, acute blood loss, and aplastic anemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_5_img_3_healthy.jpg,page_5_img_3_healthy.jpg,5,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"05
+Band neutrophil granulocytes increased or/and the presence of
+metamyelocytes, myelocytes, or even promyelocytes in peripheral blood are
+referred to as a ""left shift"" and commonly seen in infections (especially acute
+septic infections), acute poisoning, acute blood loss, and aplastic anemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_5_img_5_healthy.jpg,page_5_img_5_healthy.jpg,5,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"05
+Band neutrophil granulocytes increased or/and the presence of
+metamyelocytes, myelocytes, or even promyelocytes in peripheral blood are
+referred to as a ""left shift"" and commonly seen in infections (especially acute
+septic infections), acute poisoning, acute blood loss, and aplastic anemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_5_img_6_healthy.jpg,page_5_img_6_healthy.jpg,5,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"05
+Band neutrophil granulocytes increased or/and the presence of
+metamyelocytes, myelocytes, or even promyelocytes in peripheral blood are
+referred to as a ""left shift"" and commonly seen in infections (especially acute
+septic infections), acute poisoning, acute blood loss, and aplastic anemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_5_img_8_healthy.jpg,page_5_img_8_healthy.jpg,5,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"05
+Band neutrophil granulocytes increased or/and the presence of
+metamyelocytes, myelocytes, or even promyelocytes in peripheral blood are
+referred to as a ""left shift"" and commonly seen in infections (especially acute
+septic infections), acute poisoning, acute blood loss, and aplastic anemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_5_img_9_healthy.jpg,page_5_img_9_healthy.jpg,5,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"05
+Band neutrophil granulocytes increased or/and the presence of
+metamyelocytes, myelocytes, or even promyelocytes in peripheral blood are
+referred to as a ""left shift"" and commonly seen in infections (especially acute
+septic infections), acute poisoning, acute blood loss, and aplastic anemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_5_img_10_healthy.jpg,page_5_img_10_healthy.jpg,5,Band Neutrophils,healthy,Normal neutrophils with band nuclei,"05
+Band neutrophil granulocytes increased or/and the presence of
+metamyelocytes, myelocytes, or even promyelocytes in peripheral blood are
+referred to as a ""left shift"" and commonly seen in infections (especially acute
+septic infections), acute poisoning, acute blood loss, and aplastic anemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_6_img_4_healthy.jpg,page_6_img_4_healthy.jpg,6,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"06
+The cells are 10–15 μm in diameter with a lobulated nucleus divided into
+2–5 lobes (with 3-lobe nuclei accounting for 40–50%), having deep violet
+coarse nuclear chromatin with abundant cytoplasm that contains a large
+number of light pink, small, and uniform neutral granules.
+Segmented Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_6_img_5_healthy.jpg,page_6_img_5_healthy.jpg,6,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"06
+The cells are 10–15 μm in diameter with a lobulated nucleus divided into
+2–5 lobes (with 3-lobe nuclei accounting for 40–50%), having deep violet
+coarse nuclear chromatin with abundant cytoplasm that contains a large
+number of light pink, small, and uniform neutral granules.
+Segmented Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_6_img_6_healthy.jpg,page_6_img_6_healthy.jpg,6,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"06
+The cells are 10–15 μm in diameter with a lobulated nucleus divided into
+2–5 lobes (with 3-lobe nuclei accounting for 40–50%), having deep violet
+coarse nuclear chromatin with abundant cytoplasm that contains a large
+number of light pink, small, and uniform neutral granules.
+Segmented Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_6_img_7_healthy.jpg,page_6_img_7_healthy.jpg,6,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"06
+The cells are 10–15 μm in diameter with a lobulated nucleus divided into
+2–5 lobes (with 3-lobe nuclei accounting for 40–50%), having deep violet
+coarse nuclear chromatin with abundant cytoplasm that contains a large
+number of light pink, small, and uniform neutral granules.
+Segmented Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_6_img_8_healthy.jpg,page_6_img_8_healthy.jpg,6,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"06
+The cells are 10–15 μm in diameter with a lobulated nucleus divided into
+2–5 lobes (with 3-lobe nuclei accounting for 40–50%), having deep violet
+coarse nuclear chromatin with abundant cytoplasm that contains a large
+number of light pink, small, and uniform neutral granules.
+Segmented Neutrophil Granulocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_7_img_2_healthy.jpg,page_7_img_2_healthy.jpg,7,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"07
+Increased neutrophil count with >3% neutrophils containing 5 or more
+nuclear lobes in peripheral blood is referred to as a ""right shift"", commonly
+observed in patients with nutritional megaloblastic anemia, under anti-
+metabolic drug treatments, or during recovery from inflammations. A
+severe right shift of nuclei is often accompanied by a decreased total white
+blood cell count, suggesting a decline in bone marrow hematopoietic
+function.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_7_img_3_healthy.jpg,page_7_img_3_healthy.jpg,7,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"07
+Increased neutrophil count with >3% neutrophils containing 5 or more
+nuclear lobes in peripheral blood is referred to as a ""right shift"", commonly
+observed in patients with nutritional megaloblastic anemia, under anti-
+metabolic drug treatments, or during recovery from inflammations. A
+severe right shift of nuclei is often accompanied by a decreased total white
+blood cell count, suggesting a decline in bone marrow hematopoietic
+function.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_7_img_4_healthy.jpg,page_7_img_4_healthy.jpg,7,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"07
+Increased neutrophil count with >3% neutrophils containing 5 or more
+nuclear lobes in peripheral blood is referred to as a ""right shift"", commonly
+observed in patients with nutritional megaloblastic anemia, under anti-
+metabolic drug treatments, or during recovery from inflammations. A
+severe right shift of nuclei is often accompanied by a decreased total white
+blood cell count, suggesting a decline in bone marrow hematopoietic
+function.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_7_img_6_healthy.jpg,page_7_img_6_healthy.jpg,7,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"07
+Increased neutrophil count with >3% neutrophils containing 5 or more
+nuclear lobes in peripheral blood is referred to as a ""right shift"", commonly
+observed in patients with nutritional megaloblastic anemia, under anti-
+metabolic drug treatments, or during recovery from inflammations. A
+severe right shift of nuclei is often accompanied by a decreased total white
+blood cell count, suggesting a decline in bone marrow hematopoietic
+function.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_7_img_7_healthy.jpg,page_7_img_7_healthy.jpg,7,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"07
+Increased neutrophil count with >3% neutrophils containing 5 or more
+nuclear lobes in peripheral blood is referred to as a ""right shift"", commonly
+observed in patients with nutritional megaloblastic anemia, under anti-
+metabolic drug treatments, or during recovery from inflammations. A
+severe right shift of nuclei is often accompanied by a decreased total white
+blood cell count, suggesting a decline in bone marrow hematopoietic
+function.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_7_img_9_healthy.jpg,page_7_img_9_healthy.jpg,7,Segmented Neutrophils,healthy,Normal neutrophils with segmented nuclei,"07
+Increased neutrophil count with >3% neutrophils containing 5 or more
+nuclear lobes in peripheral blood is referred to as a ""right shift"", commonly
+observed in patients with nutritional megaloblastic anemia, under anti-
+metabolic drug treatments, or during recovery from inflammations. A
+severe right shift of nuclei is often accompanied by a decreased total white
+blood cell count, suggesting a decline in bone marrow hematopoietic
+function.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_8_img_3_healthy.jpg,page_8_img_3_healthy.jpg,8,Lymphocytes,healthy,Normal small lymphocytes,"08
+The cells vary sharply in volume, with diameters ranging from 6 to 15 μm. A
+physiological increase in lymphocytes may occur in children. A pathological
+increase in lymphocytes is associated with certain infectious diseases
+induced by viruses or bacteria, such as mumps or infectious mononucleosis,
+chronic infections during recovery from tuberculosis, and acute and chronic
+lymphocytic leukemia.
+Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_8_img_5_healthy.jpg,page_8_img_5_healthy.jpg,8,Lymphocytes,healthy,Normal small lymphocytes,"08
+The cells vary sharply in volume, with diameters ranging from 6 to 15 μm. A
+physiological increase in lymphocytes may occur in children. A pathological
+increase in lymphocytes is associated with certain infectious diseases
+induced by viruses or bacteria, such as mumps or infectious mononucleosis,
+chronic infections during recovery from tuberculosis, and acute and chronic
+lymphocytic leukemia.
+Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_8_img_7_healthy.jpg,page_8_img_7_healthy.jpg,8,Lymphocytes,healthy,Normal small lymphocytes,"08
+The cells vary sharply in volume, with diameters ranging from 6 to 15 μm. A
+physiological increase in lymphocytes may occur in children. A pathological
+increase in lymphocytes is associated with certain infectious diseases
+induced by viruses or bacteria, such as mumps or infectious mononucleosis,
+chronic infections during recovery from tuberculosis, and acute and chronic
+lymphocytic leukemia.
+Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_8_img_8_healthy.jpg,page_8_img_8_healthy.jpg,8,Lymphocytes,healthy,Normal small lymphocytes,"08
+The cells vary sharply in volume, with diameters ranging from 6 to 15 μm. A
+physiological increase in lymphocytes may occur in children. A pathological
+increase in lymphocytes is associated with certain infectious diseases
+induced by viruses or bacteria, such as mumps or infectious mononucleosis,
+chronic infections during recovery from tuberculosis, and acute and chronic
+lymphocytic leukemia.
+Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_9_img_3_healthy.jpg,page_9_img_3_healthy.jpg,9,Lymphocytes,healthy,Normal small lymphocytes,09,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_9_img_4_healthy.jpg,page_9_img_4_healthy.jpg,9,Lymphocytes,healthy,Normal small lymphocytes,09,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_9_img_5_healthy.jpg,page_9_img_5_healthy.jpg,9,Lymphocytes,healthy,Normal small lymphocytes,09,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_9_img_7_healthy.jpg,page_9_img_7_healthy.jpg,9,Lymphocytes,healthy,Normal small lymphocytes,09,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_9_img_9_healthy.jpg,page_9_img_9_healthy.jpg,9,Lymphocytes,healthy,Normal small lymphocytes,09,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_10_img_4_healthy.jpg,page_10_img_4_healthy.jpg,10,Monocytes,healthy,Normal monocytes with kidney-shaped nuclei,"10
+Monocytes are large cells approximately 12–20 μm in diameter. They are
+typically round, oval, or irregular in shape, with or without pseudopods. The
+nucleus is twisted or irregularly folded and sometimes shaped like a kidney,
+mountain, or horseshoe. The nucleus chromatin is loose and reticulate and
+stained light violet-red. The cytoplasm is gray-blue or gray-red, translucent,
+commonly vacuolated, and contains small, dust-like violet-red granules.
+Monocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_10_img_5_healthy.jpg,page_10_img_5_healthy.jpg,10,Monocytes,healthy,Normal monocytes with kidney-shaped nuclei,"10
+Monocytes are large cells approximately 12–20 μm in diameter. They are
+typically round, oval, or irregular in shape, with or without pseudopods. The
+nucleus is twisted or irregularly folded and sometimes shaped like a kidney,
+mountain, or horseshoe. The nucleus chromatin is loose and reticulate and
+stained light violet-red. The cytoplasm is gray-blue or gray-red, translucent,
+commonly vacuolated, and contains small, dust-like violet-red granules.
+Monocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_10_img_8_healthy.jpg,page_10_img_8_healthy.jpg,10,Monocytes,healthy,Normal monocytes with kidney-shaped nuclei,"10
+Monocytes are large cells approximately 12–20 μm in diameter. They are
+typically round, oval, or irregular in shape, with or without pseudopods. The
+nucleus is twisted or irregularly folded and sometimes shaped like a kidney,
+mountain, or horseshoe. The nucleus chromatin is loose and reticulate and
+stained light violet-red. The cytoplasm is gray-blue or gray-red, translucent,
+commonly vacuolated, and contains small, dust-like violet-red granules.
+Monocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_11_img_3_healthy.jpg,page_11_img_3_healthy.jpg,11,Monocytes,healthy,Normal monocytes with kidney-shaped nuclei,"11
+A pathological increase in monocytes may be observed in infectious
+diseases such as subacute infective endocarditis, malaria, and Kala-azar
+(visceral leishmaniasis). It could also occur in the recovery phase of acute
+infections and certain hematological diseases, such as the recovery phase of
+agranulocytosis, monocytic leukemia, and MDS.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_11_img_4_healthy.jpg,page_11_img_4_healthy.jpg,11,Monocytes,healthy,Normal monocytes with kidney-shaped nuclei,"11
+A pathological increase in monocytes may be observed in infectious
+diseases such as subacute infective endocarditis, malaria, and Kala-azar
+(visceral leishmaniasis). It could also occur in the recovery phase of acute
+infections and certain hematological diseases, such as the recovery phase of
+agranulocytosis, monocytic leukemia, and MDS.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_12_img_4_healthy.jpg,page_12_img_4_healthy.jpg,12,Eosinophils,healthy,Normal eosinophils with orange granules,"12
+The cells are 13–15 μm in diameter, typically round, with a glasses-shaped
+2-lobe nucleus and coarse and deep violet-red chromatin. The cytoplasm is
+stained lightly and filled with coarse and neatly arranged orange granules,
+which contain a variety of enzymes such as peroxidase, phospholipase D,
+catalase, and acid phosphatase.
+Eosinophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_12_img_5_healthy.jpg,page_12_img_5_healthy.jpg,12,Eosinophils,healthy,Normal eosinophils with orange granules,"12
+The cells are 13–15 μm in diameter, typically round, with a glasses-shaped
+2-lobe nucleus and coarse and deep violet-red chromatin. The cytoplasm is
+stained lightly and filled with coarse and neatly arranged orange granules,
+which contain a variety of enzymes such as peroxidase, phospholipase D,
+catalase, and acid phosphatase.
+Eosinophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_12_img_6_healthy.jpg,page_12_img_6_healthy.jpg,12,Eosinophils,healthy,Normal eosinophils with orange granules,"12
+The cells are 13–15 μm in diameter, typically round, with a glasses-shaped
+2-lobe nucleus and coarse and deep violet-red chromatin. The cytoplasm is
+stained lightly and filled with coarse and neatly arranged orange granules,
+which contain a variety of enzymes such as peroxidase, phospholipase D,
+catalase, and acid phosphatase.
+Eosinophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_12_img_7_healthy.jpg,page_12_img_7_healthy.jpg,12,Eosinophils,healthy,Normal eosinophils with orange granules,"12
+The cells are 13–15 μm in diameter, typically round, with a glasses-shaped
+2-lobe nucleus and coarse and deep violet-red chromatin. The cytoplasm is
+stained lightly and filled with coarse and neatly arranged orange granules,
+which contain a variety of enzymes such as peroxidase, phospholipase D,
+catalase, and acid phosphatase.
+Eosinophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_12_img_8_healthy.jpg,page_12_img_8_healthy.jpg,12,Eosinophils,healthy,Normal eosinophils with orange granules,"12
+The cells are 13–15 μm in diameter, typically round, with a glasses-shaped
+2-lobe nucleus and coarse and deep violet-red chromatin. The cytoplasm is
+stained lightly and filled with coarse and neatly arranged orange granules,
+which contain a variety of enzymes such as peroxidase, phospholipase D,
+catalase, and acid phosphatase.
+Eosinophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_13_img_2_healthy.jpg,page_13_img_2_healthy.jpg,13,Eosinophils,healthy,Normal eosinophils with orange granules,"13
+Eosinophils are less capable of killing bacteria than neutrophils, and an
+increase in eosinophils can be observed in parasitic infections and certain
+types of allergies.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_14_img_3_healthy.jpg,page_14_img_3_healthy.jpg,14,Basophils,healthy,Normal basophils with dark granules,"14
+The cells are 10–12 μm in diameter, typically round, and the nucleus is
+obscured by granules, which are violet-black, varied in sizes, and unevenly
+distributed in the cells. The chromatin is coarse and violet-red, and the
+cytoplasm is stained lightly.
+Basophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_14_img_4_healthy.jpg,page_14_img_4_healthy.jpg,14,Basophils,healthy,Normal basophils with dark granules,"14
+The cells are 10–12 μm in diameter, typically round, and the nucleus is
+obscured by granules, which are violet-black, varied in sizes, and unevenly
+distributed in the cells. The chromatin is coarse and violet-red, and the
+cytoplasm is stained lightly.
+Basophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_14_img_5_healthy.jpg,page_14_img_5_healthy.jpg,14,Basophils,healthy,Normal basophils with dark granules,"14
+The cells are 10–12 μm in diameter, typically round, and the nucleus is
+obscured by granules, which are violet-black, varied in sizes, and unevenly
+distributed in the cells. The chromatin is coarse and violet-red, and the
+cytoplasm is stained lightly.
+Basophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_14_img_6_healthy.jpg,page_14_img_6_healthy.jpg,14,Basophils,healthy,Normal basophils with dark granules,"14
+The cells are 10–12 μm in diameter, typically round, and the nucleus is
+obscured by granules, which are violet-black, varied in sizes, and unevenly
+distributed in the cells. The chromatin is coarse and violet-red, and the
+cytoplasm is stained lightly.
+Basophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_14_img_7_healthy.jpg,page_14_img_7_healthy.jpg,14,Basophils,healthy,Normal basophils with dark granules,"14
+The cells are 10–12 μm in diameter, typically round, and the nucleus is
+obscured by granules, which are violet-black, varied in sizes, and unevenly
+distributed in the cells. The chromatin is coarse and violet-red, and the
+cytoplasm is stained lightly.
+Basophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_14_img_8_healthy.jpg,page_14_img_8_healthy.jpg,14,Basophils,healthy,Normal basophils with dark granules,"14
+The cells are 10–12 μm in diameter, typically round, and the nucleus is
+obscured by granules, which are violet-black, varied in sizes, and unevenly
+distributed in the cells. The chromatin is coarse and violet-red, and the
+cytoplasm is stained lightly.
+Basophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_15_img_2_healthy.jpg,page_15_img_2_healthy.jpg,15,Basophils,healthy,Normal basophils with dark granules,"15
+An increase in basophils may occur in specific allergies, myeloproliferative
+disorders, and basophilic leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_15_img_3_healthy.jpg,page_15_img_3_healthy.jpg,15,Basophils,healthy,Normal basophils with dark granules,"15
+An increase in basophils may occur in specific allergies, myeloproliferative
+disorders, and basophilic leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_15_img_7_healthy.jpg,page_15_img_7_healthy.jpg,15,Basophils,healthy,Normal basophils with dark granules,"15
+An increase in basophils may occur in specific allergies, myeloproliferative
+disorders, and basophilic leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_15_img_8_healthy.jpg,page_15_img_8_healthy.jpg,15,Basophils,healthy,Normal basophils with dark granules,"15
+An increase in basophils may occur in specific allergies, myeloproliferative
+disorders, and basophilic leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_15_img_9_healthy.jpg,page_15_img_9_healthy.jpg,15,Basophils,healthy,Normal basophils with dark granules,"15
+An increase in basophils may occur in specific allergies, myeloproliferative
+disorders, and basophilic leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_18_img_3_leukemia.jpg,page_18_img_3_leukemia.jpg,18,Neutrophil Phagocytosis,leukemia,Neutrophils with ingested organisms,"18
+Neutrophils are the primary form of phagocytes with a strong ability to
+migrate by deformation and high phagocytic activity.
+Neutrophil Phagocytosis of Fungi or
+Parasites",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_18_img_4_leukemia.jpg,page_18_img_4_leukemia.jpg,18,Neutrophil Phagocytosis,leukemia,Neutrophils with ingested organisms,"18
+Neutrophils are the primary form of phagocytes with a strong ability to
+migrate by deformation and high phagocytic activity.
+Neutrophil Phagocytosis of Fungi or
+Parasites",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_18_img_5_leukemia.jpg,page_18_img_5_leukemia.jpg,18,Neutrophil Phagocytosis,leukemia,Neutrophils with ingested organisms,"18
+Neutrophils are the primary form of phagocytes with a strong ability to
+migrate by deformation and high phagocytic activity.
+Neutrophil Phagocytosis of Fungi or
+Parasites",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_18_img_6_leukemia.jpg,page_18_img_6_leukemia.jpg,18,Neutrophil Phagocytosis,leukemia,Neutrophils with ingested organisms,"18
+Neutrophils are the primary form of phagocytes with a strong ability to
+migrate by deformation and high phagocytic activity.
+Neutrophil Phagocytosis of Fungi or
+Parasites",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_18_img_7_leukemia.jpg,page_18_img_7_leukemia.jpg,18,Neutrophil Phagocytosis,leukemia,Neutrophils with ingested organisms,"18
+Neutrophils are the primary form of phagocytes with a strong ability to
+migrate by deformation and high phagocytic activity.
+Neutrophil Phagocytosis of Fungi or
+Parasites",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_19_img_4_leukemia.jpg,page_19_img_4_leukemia.jpg,19,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,"19
+In some severe septic infections, sepsis, extensive burns, malignant tumors,
+acute poisoning, and other pathological conditions, neutrophils may
+present various cell sizes, toxic granulation, vacuolation, Döhle bodies, and
+degenerations. These changes may occur alone or together, and they are
+helpful indications for disease monitor and prognosis.
+Toxic Changes in Neutrophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_19_img_5_leukemia.jpg,page_19_img_5_leukemia.jpg,19,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,"19
+In some severe septic infections, sepsis, extensive burns, malignant tumors,
+acute poisoning, and other pathological conditions, neutrophils may
+present various cell sizes, toxic granulation, vacuolation, Döhle bodies, and
+degenerations. These changes may occur alone or together, and they are
+helpful indications for disease monitor and prognosis.
+Toxic Changes in Neutrophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_19_img_6_leukemia.jpg,page_19_img_6_leukemia.jpg,19,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,"19
+In some severe septic infections, sepsis, extensive burns, malignant tumors,
+acute poisoning, and other pathological conditions, neutrophils may
+present various cell sizes, toxic granulation, vacuolation, Döhle bodies, and
+degenerations. These changes may occur alone or together, and they are
+helpful indications for disease monitor and prognosis.
+Toxic Changes in Neutrophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_19_img_7_leukemia.jpg,page_19_img_7_leukemia.jpg,19,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,"19
+In some severe septic infections, sepsis, extensive burns, malignant tumors,
+acute poisoning, and other pathological conditions, neutrophils may
+present various cell sizes, toxic granulation, vacuolation, Döhle bodies, and
+degenerations. These changes may occur alone or together, and they are
+helpful indications for disease monitor and prognosis.
+Toxic Changes in Neutrophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_19_img_8_leukemia.jpg,page_19_img_8_leukemia.jpg,19,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,"19
+In some severe septic infections, sepsis, extensive burns, malignant tumors,
+acute poisoning, and other pathological conditions, neutrophils may
+present various cell sizes, toxic granulation, vacuolation, Döhle bodies, and
+degenerations. These changes may occur alone or together, and they are
+helpful indications for disease monitor and prognosis.
+Toxic Changes in Neutrophils",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_20_img_2_leukemia.jpg,page_20_img_2_leukemia.jpg,20,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,20,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_20_img_3_leukemia.jpg,page_20_img_3_leukemia.jpg,20,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,20,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_20_img_4_leukemia.jpg,page_20_img_4_leukemia.jpg,20,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,20,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_20_img_5_leukemia.jpg,page_20_img_5_leukemia.jpg,20,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,20,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_20_img_6_leukemia.jpg,page_20_img_6_leukemia.jpg,20,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,20,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_20_img_7_leukemia.jpg,page_20_img_7_leukemia.jpg,20,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,20,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_20_img_10_leukemia.jpg,page_20_img_10_leukemia.jpg,20,Toxic Neutrophils,leukemia,Neutrophils with toxic changes,20,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_21_img_3_leukemia.jpg,page_21_img_3_leukemia.jpg,21,Blast Cells,leukemia,Immature leukemic blast cells,"21
+Blasts are medium to large cells with high nuclear to cytoplasmic ratios. They
+have prominent round or almost round nuclei containing fine-grained
+chromatin and apparent nucleoli. They also have scant and basophilic
+cytoplasm stained blue or dark blue.
+Blast Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_21_img_4_leukemia.jpg,page_21_img_4_leukemia.jpg,21,Blast Cells,leukemia,Immature leukemic blast cells,"21
+Blasts are medium to large cells with high nuclear to cytoplasmic ratios. They
+have prominent round or almost round nuclei containing fine-grained
+chromatin and apparent nucleoli. They also have scant and basophilic
+cytoplasm stained blue or dark blue.
+Blast Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_21_img_5_leukemia.jpg,page_21_img_5_leukemia.jpg,21,Blast Cells,leukemia,Immature leukemic blast cells,"21
+Blasts are medium to large cells with high nuclear to cytoplasmic ratios. They
+have prominent round or almost round nuclei containing fine-grained
+chromatin and apparent nucleoli. They also have scant and basophilic
+cytoplasm stained blue or dark blue.
+Blast Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_21_img_6_leukemia.jpg,page_21_img_6_leukemia.jpg,21,Blast Cells,leukemia,Immature leukemic blast cells,"21
+Blasts are medium to large cells with high nuclear to cytoplasmic ratios. They
+have prominent round or almost round nuclei containing fine-grained
+chromatin and apparent nucleoli. They also have scant and basophilic
+cytoplasm stained blue or dark blue.
+Blast Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_21_img_8_leukemia.jpg,page_21_img_8_leukemia.jpg,21,Blast Cells,leukemia,Immature leukemic blast cells,"21
+Blasts are medium to large cells with high nuclear to cytoplasmic ratios. They
+have prominent round or almost round nuclei containing fine-grained
+chromatin and apparent nucleoli. They also have scant and basophilic
+cytoplasm stained blue or dark blue.
+Blast Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_22_img_2_leukemia.jpg,page_22_img_2_leukemia.jpg,22,Blast Cells,leukemia,Immature leukemic blast cells,22,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_22_img_3_leukemia.jpg,page_22_img_3_leukemia.jpg,22,Blast Cells,leukemia,Immature leukemic blast cells,22,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_22_img_8_leukemia.jpg,page_22_img_8_leukemia.jpg,22,Blast Cells,leukemia,Immature leukemic blast cells,22,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_22_img_10_leukemia.jpg,page_22_img_10_leukemia.jpg,22,Blast Cells,leukemia,Immature leukemic blast cells,22,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_23_img_4_leukemia.jpg,page_23_img_4_leukemia.jpg,23,Promyelocytes,leukemia,Immature myeloid cells,"23
+Promyelocytes are round or oval cells 12–25 um in diameter and larger than
+myeloblasts. They have a large and slightly indented nucleus that usually
+deviates to one side with a visible nucleolus, and the chromatin starts to
+aggregate and is more coarse and clumped than myeloblasts. They have
+abundant basophilic cytoplasm stained blue or dark blue and contain
+violet-red or deep violet-red non-specific granules with variable numbers
+and morphology and are unevenly distributed in the cytoplasm. A
+paranuclear hof or cleared space may be present.
+Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_23_img_5_leukemia.jpg,page_23_img_5_leukemia.jpg,23,Promyelocytes,leukemia,Immature myeloid cells,"23
+Promyelocytes are round or oval cells 12–25 um in diameter and larger than
+myeloblasts. They have a large and slightly indented nucleus that usually
+deviates to one side with a visible nucleolus, and the chromatin starts to
+aggregate and is more coarse and clumped than myeloblasts. They have
+abundant basophilic cytoplasm stained blue or dark blue and contain
+violet-red or deep violet-red non-specific granules with variable numbers
+and morphology and are unevenly distributed in the cytoplasm. A
+paranuclear hof or cleared space may be present.
+Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_23_img_7_leukemia.jpg,page_23_img_7_leukemia.jpg,23,Promyelocytes,leukemia,Immature myeloid cells,"23
+Promyelocytes are round or oval cells 12–25 um in diameter and larger than
+myeloblasts. They have a large and slightly indented nucleus that usually
+deviates to one side with a visible nucleolus, and the chromatin starts to
+aggregate and is more coarse and clumped than myeloblasts. They have
+abundant basophilic cytoplasm stained blue or dark blue and contain
+violet-red or deep violet-red non-specific granules with variable numbers
+and morphology and are unevenly distributed in the cytoplasm. A
+paranuclear hof or cleared space may be present.
+Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_23_img_8_leukemia.jpg,page_23_img_8_leukemia.jpg,23,Promyelocytes,leukemia,Immature myeloid cells,"23
+Promyelocytes are round or oval cells 12–25 um in diameter and larger than
+myeloblasts. They have a large and slightly indented nucleus that usually
+deviates to one side with a visible nucleolus, and the chromatin starts to
+aggregate and is more coarse and clumped than myeloblasts. They have
+abundant basophilic cytoplasm stained blue or dark blue and contain
+violet-red or deep violet-red non-specific granules with variable numbers
+and morphology and are unevenly distributed in the cytoplasm. A
+paranuclear hof or cleared space may be present.
+Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_24_img_2_leukemia.jpg,page_24_img_2_leukemia.jpg,24,Promyelocytes,leukemia,Immature myeloid cells,24,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_24_img_3_leukemia.jpg,page_24_img_3_leukemia.jpg,24,Promyelocytes,leukemia,Immature myeloid cells,24,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_24_img_4_leukemia.jpg,page_24_img_4_leukemia.jpg,24,Promyelocytes,leukemia,Immature myeloid cells,24,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_24_img_5_leukemia.jpg,page_24_img_5_leukemia.jpg,24,Promyelocytes,leukemia,Immature myeloid cells,24,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_24_img_7_leukemia.jpg,page_24_img_7_leukemia.jpg,24,Promyelocytes,leukemia,Immature myeloid cells,24,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_24_img_8_leukemia.jpg,page_24_img_8_leukemia.jpg,24,Promyelocytes,leukemia,Immature myeloid cells,24,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_24_img_10_leukemia.jpg,page_24_img_10_leukemia.jpg,24,Promyelocytes,leukemia,Immature myeloid cells,24,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_25_img_3_leukemia.jpg,page_25_img_3_leukemia.jpg,25,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"25
+Typical abnormal promyelocytes vary in size, with irregular nuclei (generally
+kidney-shaped or bilobed), dense nuclear chromatin, occasional visible fuzzy
+nucleoli, abundant cytoplasm, and long and thick Auer rods (i.e. ""faggot
+cells"" since they resemble a bundle of sticks or a faggot). Based on the FAB
+classification scheme as well as the characteristics of intracellular granules
+and the nuclear shape, acute promyelocytic leukemia (APL; AML-M3) was
+divided into three subtypes based on the characteristics of intracellular
+granules and the nuclear shape: M3a (coarse granules), M3b (fine granules),
+and M3v (micro or invisible granules and twisted or lobulated nuclei).
+Abnormal Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_25_img_4_leukemia.jpg,page_25_img_4_leukemia.jpg,25,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"25
+Typical abnormal promyelocytes vary in size, with irregular nuclei (generally
+kidney-shaped or bilobed), dense nuclear chromatin, occasional visible fuzzy
+nucleoli, abundant cytoplasm, and long and thick Auer rods (i.e. ""faggot
+cells"" since they resemble a bundle of sticks or a faggot). Based on the FAB
+classification scheme as well as the characteristics of intracellular granules
+and the nuclear shape, acute promyelocytic leukemia (APL; AML-M3) was
+divided into three subtypes based on the characteristics of intracellular
+granules and the nuclear shape: M3a (coarse granules), M3b (fine granules),
+and M3v (micro or invisible granules and twisted or lobulated nuclei).
+Abnormal Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_25_img_5_leukemia.jpg,page_25_img_5_leukemia.jpg,25,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"25
+Typical abnormal promyelocytes vary in size, with irregular nuclei (generally
+kidney-shaped or bilobed), dense nuclear chromatin, occasional visible fuzzy
+nucleoli, abundant cytoplasm, and long and thick Auer rods (i.e. ""faggot
+cells"" since they resemble a bundle of sticks or a faggot). Based on the FAB
+classification scheme as well as the characteristics of intracellular granules
+and the nuclear shape, acute promyelocytic leukemia (APL; AML-M3) was
+divided into three subtypes based on the characteristics of intracellular
+granules and the nuclear shape: M3a (coarse granules), M3b (fine granules),
+and M3v (micro or invisible granules and twisted or lobulated nuclei).
+Abnormal Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_25_img_6_leukemia.jpg,page_25_img_6_leukemia.jpg,25,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"25
+Typical abnormal promyelocytes vary in size, with irregular nuclei (generally
+kidney-shaped or bilobed), dense nuclear chromatin, occasional visible fuzzy
+nucleoli, abundant cytoplasm, and long and thick Auer rods (i.e. ""faggot
+cells"" since they resemble a bundle of sticks or a faggot). Based on the FAB
+classification scheme as well as the characteristics of intracellular granules
+and the nuclear shape, acute promyelocytic leukemia (APL; AML-M3) was
+divided into three subtypes based on the characteristics of intracellular
+granules and the nuclear shape: M3a (coarse granules), M3b (fine granules),
+and M3v (micro or invisible granules and twisted or lobulated nuclei).
+Abnormal Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_25_img_7_leukemia.jpg,page_25_img_7_leukemia.jpg,25,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"25
+Typical abnormal promyelocytes vary in size, with irregular nuclei (generally
+kidney-shaped or bilobed), dense nuclear chromatin, occasional visible fuzzy
+nucleoli, abundant cytoplasm, and long and thick Auer rods (i.e. ""faggot
+cells"" since they resemble a bundle of sticks or a faggot). Based on the FAB
+classification scheme as well as the characteristics of intracellular granules
+and the nuclear shape, acute promyelocytic leukemia (APL; AML-M3) was
+divided into three subtypes based on the characteristics of intracellular
+granules and the nuclear shape: M3a (coarse granules), M3b (fine granules),
+and M3v (micro or invisible granules and twisted or lobulated nuclei).
+Abnormal Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_25_img_8_leukemia.jpg,page_25_img_8_leukemia.jpg,25,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"25
+Typical abnormal promyelocytes vary in size, with irregular nuclei (generally
+kidney-shaped or bilobed), dense nuclear chromatin, occasional visible fuzzy
+nucleoli, abundant cytoplasm, and long and thick Auer rods (i.e. ""faggot
+cells"" since they resemble a bundle of sticks or a faggot). Based on the FAB
+classification scheme as well as the characteristics of intracellular granules
+and the nuclear shape, acute promyelocytic leukemia (APL; AML-M3) was
+divided into three subtypes based on the characteristics of intracellular
+granules and the nuclear shape: M3a (coarse granules), M3b (fine granules),
+and M3v (micro or invisible granules and twisted or lobulated nuclei).
+Abnormal Promyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_26_img_2_leukemia.jpg,page_26_img_2_leukemia.jpg,26,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"26
+APL is an acute myeloid leukemia with malignant proliferation of abnormal
+promyelocytes and reproducible genetic abnormalities t(15;17)(q22;q12)
+and PML-RARα with an aggressive clinical presentation. Any abnormal
+promyelocytes found in the peripheral blood should be noted in the report
+and notified to the clinician at the earliest time possible for the
+consideration of APL possibility.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_26_img_3_leukemia.jpg,page_26_img_3_leukemia.jpg,26,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"26
+APL is an acute myeloid leukemia with malignant proliferation of abnormal
+promyelocytes and reproducible genetic abnormalities t(15;17)(q22;q12)
+and PML-RARα with an aggressive clinical presentation. Any abnormal
+promyelocytes found in the peripheral blood should be noted in the report
+and notified to the clinician at the earliest time possible for the
+consideration of APL possibility.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_26_img_4_leukemia.jpg,page_26_img_4_leukemia.jpg,26,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"26
+APL is an acute myeloid leukemia with malignant proliferation of abnormal
+promyelocytes and reproducible genetic abnormalities t(15;17)(q22;q12)
+and PML-RARα with an aggressive clinical presentation. Any abnormal
+promyelocytes found in the peripheral blood should be noted in the report
+and notified to the clinician at the earliest time possible for the
+consideration of APL possibility.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_26_img_5_leukemia.jpg,page_26_img_5_leukemia.jpg,26,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"26
+APL is an acute myeloid leukemia with malignant proliferation of abnormal
+promyelocytes and reproducible genetic abnormalities t(15;17)(q22;q12)
+and PML-RARα with an aggressive clinical presentation. Any abnormal
+promyelocytes found in the peripheral blood should be noted in the report
+and notified to the clinician at the earliest time possible for the
+consideration of APL possibility.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_26_img_7_leukemia.jpg,page_26_img_7_leukemia.jpg,26,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"26
+APL is an acute myeloid leukemia with malignant proliferation of abnormal
+promyelocytes and reproducible genetic abnormalities t(15;17)(q22;q12)
+and PML-RARα with an aggressive clinical presentation. Any abnormal
+promyelocytes found in the peripheral blood should be noted in the report
+and notified to the clinician at the earliest time possible for the
+consideration of APL possibility.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_26_img_9_leukemia.jpg,page_26_img_9_leukemia.jpg,26,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"26
+APL is an acute myeloid leukemia with malignant proliferation of abnormal
+promyelocytes and reproducible genetic abnormalities t(15;17)(q22;q12)
+and PML-RARα with an aggressive clinical presentation. Any abnormal
+promyelocytes found in the peripheral blood should be noted in the report
+and notified to the clinician at the earliest time possible for the
+consideration of APL possibility.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_26_img_10_leukemia.jpg,page_26_img_10_leukemia.jpg,26,Abnormal Promyelocytes,leukemia,APL cells with Auer rods,"26
+APL is an acute myeloid leukemia with malignant proliferation of abnormal
+promyelocytes and reproducible genetic abnormalities t(15;17)(q22;q12)
+and PML-RARα with an aggressive clinical presentation. Any abnormal
+promyelocytes found in the peripheral blood should be noted in the report
+and notified to the clinician at the earliest time possible for the
+consideration of APL possibility.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_27_img_3_leukemia.jpg,page_27_img_3_leukemia.jpg,27,Myelocytes,leukemia,Immature neutrophils in leukemia,"27
+Neutrophilic myelocytes are round cells 10–20 μm in diameter, smaller than
+promyelocytes. The nucleus is oval, semicircular, flattened or slightly
+Indented on one side, and The indentation is usually less than 1/2 the
+nucleus diameter when assuming it is round. The nucleus is normally
+anucleolate and stained with concentrated clusters in the form of rods. The
+cytoplasm is abundant and stained blue or light blue, and it is heavily filled
+with fine and light red or violet-red granules.
+Neutrophilic Myelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_27_img_4_leukemia.jpg,page_27_img_4_leukemia.jpg,27,Myelocytes,leukemia,Immature neutrophils in leukemia,"27
+Neutrophilic myelocytes are round cells 10–20 μm in diameter, smaller than
+promyelocytes. The nucleus is oval, semicircular, flattened or slightly
+Indented on one side, and The indentation is usually less than 1/2 the
+nucleus diameter when assuming it is round. The nucleus is normally
+anucleolate and stained with concentrated clusters in the form of rods. The
+cytoplasm is abundant and stained blue or light blue, and it is heavily filled
+with fine and light red or violet-red granules.
+Neutrophilic Myelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_27_img_5_leukemia.jpg,page_27_img_5_leukemia.jpg,27,Myelocytes,leukemia,Immature neutrophils in leukemia,"27
+Neutrophilic myelocytes are round cells 10–20 μm in diameter, smaller than
+promyelocytes. The nucleus is oval, semicircular, flattened or slightly
+Indented on one side, and The indentation is usually less than 1/2 the
+nucleus diameter when assuming it is round. The nucleus is normally
+anucleolate and stained with concentrated clusters in the form of rods. The
+cytoplasm is abundant and stained blue or light blue, and it is heavily filled
+with fine and light red or violet-red granules.
+Neutrophilic Myelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_27_img_6_leukemia.jpg,page_27_img_6_leukemia.jpg,27,Myelocytes,leukemia,Immature neutrophils in leukemia,"27
+Neutrophilic myelocytes are round cells 10–20 μm in diameter, smaller than
+promyelocytes. The nucleus is oval, semicircular, flattened or slightly
+Indented on one side, and The indentation is usually less than 1/2 the
+nucleus diameter when assuming it is round. The nucleus is normally
+anucleolate and stained with concentrated clusters in the form of rods. The
+cytoplasm is abundant and stained blue or light blue, and it is heavily filled
+with fine and light red or violet-red granules.
+Neutrophilic Myelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_27_img_7_leukemia.jpg,page_27_img_7_leukemia.jpg,27,Myelocytes,leukemia,Immature neutrophils in leukemia,"27
+Neutrophilic myelocytes are round cells 10–20 μm in diameter, smaller than
+promyelocytes. The nucleus is oval, semicircular, flattened or slightly
+Indented on one side, and The indentation is usually less than 1/2 the
+nucleus diameter when assuming it is round. The nucleus is normally
+anucleolate and stained with concentrated clusters in the form of rods. The
+cytoplasm is abundant and stained blue or light blue, and it is heavily filled
+with fine and light red or violet-red granules.
+Neutrophilic Myelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_27_img_8_leukemia.jpg,page_27_img_8_leukemia.jpg,27,Myelocytes,leukemia,Immature neutrophils in leukemia,"27
+Neutrophilic myelocytes are round cells 10–20 μm in diameter, smaller than
+promyelocytes. The nucleus is oval, semicircular, flattened or slightly
+Indented on one side, and The indentation is usually less than 1/2 the
+nucleus diameter when assuming it is round. The nucleus is normally
+anucleolate and stained with concentrated clusters in the form of rods. The
+cytoplasm is abundant and stained blue or light blue, and it is heavily filled
+with fine and light red or violet-red granules.
+Neutrophilic Myelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_28_img_9_leukemia.jpg,page_28_img_9_leukemia.jpg,28,Myelocytes,leukemia,Immature neutrophils in leukemia,"28
+Neutrophilic myelocytes could present in peripheral blood under conditions
+including AML, CLL, MDS, and severe infections.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_28_img_10_leukemia.jpg,page_28_img_10_leukemia.jpg,28,Myelocytes,leukemia,Immature neutrophils in leukemia,"28
+Neutrophilic myelocytes could present in peripheral blood under conditions
+including AML, CLL, MDS, and severe infections.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_29_img_3_leukemia.jpg,page_29_img_3_leukemia.jpg,29,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,"29
+Neutrophilic metamyelocytes are round cells 10–16 μm in diameter. The
+nucleus is significantly Indented and kidney-shaped, semilunar, or
+horseshoe-shaped. The indentation is less than 1/2 the nucleus diameter
+and 1/2 to 3/4 the diameter of the nucleus when assuming it is round.The
+nucleus is often eccentric and anucleolate, with chromatin aggregation in
+small clusters and visible parachromatin. The cytoplasm is abundant, light
+blue and filled with neutral granules. Neutrophilic Metamyelocytes could
+present in peripheral blood under pathological conditions including AML,
+CLL, MDS, and severe infections.
+Neutrophilic Metamyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_29_img_4_leukemia.jpg,page_29_img_4_leukemia.jpg,29,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,"29
+Neutrophilic metamyelocytes are round cells 10–16 μm in diameter. The
+nucleus is significantly Indented and kidney-shaped, semilunar, or
+horseshoe-shaped. The indentation is less than 1/2 the nucleus diameter
+and 1/2 to 3/4 the diameter of the nucleus when assuming it is round.The
+nucleus is often eccentric and anucleolate, with chromatin aggregation in
+small clusters and visible parachromatin. The cytoplasm is abundant, light
+blue and filled with neutral granules. Neutrophilic Metamyelocytes could
+present in peripheral blood under pathological conditions including AML,
+CLL, MDS, and severe infections.
+Neutrophilic Metamyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_29_img_5_leukemia.jpg,page_29_img_5_leukemia.jpg,29,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,"29
+Neutrophilic metamyelocytes are round cells 10–16 μm in diameter. The
+nucleus is significantly Indented and kidney-shaped, semilunar, or
+horseshoe-shaped. The indentation is less than 1/2 the nucleus diameter
+and 1/2 to 3/4 the diameter of the nucleus when assuming it is round.The
+nucleus is often eccentric and anucleolate, with chromatin aggregation in
+small clusters and visible parachromatin. The cytoplasm is abundant, light
+blue and filled with neutral granules. Neutrophilic Metamyelocytes could
+present in peripheral blood under pathological conditions including AML,
+CLL, MDS, and severe infections.
+Neutrophilic Metamyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_29_img_6_leukemia.jpg,page_29_img_6_leukemia.jpg,29,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,"29
+Neutrophilic metamyelocytes are round cells 10–16 μm in diameter. The
+nucleus is significantly Indented and kidney-shaped, semilunar, or
+horseshoe-shaped. The indentation is less than 1/2 the nucleus diameter
+and 1/2 to 3/4 the diameter of the nucleus when assuming it is round.The
+nucleus is often eccentric and anucleolate, with chromatin aggregation in
+small clusters and visible parachromatin. The cytoplasm is abundant, light
+blue and filled with neutral granules. Neutrophilic Metamyelocytes could
+present in peripheral blood under pathological conditions including AML,
+CLL, MDS, and severe infections.
+Neutrophilic Metamyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_29_img_7_leukemia.jpg,page_29_img_7_leukemia.jpg,29,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,"29
+Neutrophilic metamyelocytes are round cells 10–16 μm in diameter. The
+nucleus is significantly Indented and kidney-shaped, semilunar, or
+horseshoe-shaped. The indentation is less than 1/2 the nucleus diameter
+and 1/2 to 3/4 the diameter of the nucleus when assuming it is round.The
+nucleus is often eccentric and anucleolate, with chromatin aggregation in
+small clusters and visible parachromatin. The cytoplasm is abundant, light
+blue and filled with neutral granules. Neutrophilic Metamyelocytes could
+present in peripheral blood under pathological conditions including AML,
+CLL, MDS, and severe infections.
+Neutrophilic Metamyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_29_img_8_leukemia.jpg,page_29_img_8_leukemia.jpg,29,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,"29
+Neutrophilic metamyelocytes are round cells 10–16 μm in diameter. The
+nucleus is significantly Indented and kidney-shaped, semilunar, or
+horseshoe-shaped. The indentation is less than 1/2 the nucleus diameter
+and 1/2 to 3/4 the diameter of the nucleus when assuming it is round.The
+nucleus is often eccentric and anucleolate, with chromatin aggregation in
+small clusters and visible parachromatin. The cytoplasm is abundant, light
+blue and filled with neutral granules. Neutrophilic Metamyelocytes could
+present in peripheral blood under pathological conditions including AML,
+CLL, MDS, and severe infections.
+Neutrophilic Metamyelocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_30_img_5_leukemia.jpg,page_30_img_5_leukemia.jpg,30,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,30,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_30_img_6_leukemia.jpg,page_30_img_6_leukemia.jpg,30,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,30,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_30_img_8_leukemia.jpg,page_30_img_8_leukemia.jpg,30,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,30,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_30_img_9_leukemia.jpg,page_30_img_9_leukemia.jpg,30,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,30,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_30_img_10_leukemia.jpg,page_30_img_10_leukemia.jpg,30,Metamyelocytes,leukemia,Immature neutrophils with kidney nuclei,30,Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_31_img_4_healthy.jpg,page_31_img_4_healthy.jpg,31,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"31
+Upon stimulation by viruses (e.g., adenovirus), protozoa (e.g., Toxoplasma
+gondii), drug reactions, connective tissue diseases, and other stimuli,
+lymphocytes may undergo proliferation and morphological changes such as
+cell swelling, increased, cytoplasm, enhanced basophilia, and nuclear
+blastogenesis. Such lymphocytes are referred to as ""reactive lymphocytes"".
+They fall into three types depending on the morphological characteristics.
+Type I (vacuolated) is also known as foam cell or plasma cell type, type II
+(irregular) as monocytic type, and type III (naive) as immature cell type or
+prolymphocyte type.
+Reactive Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_31_img_5_healthy.jpg,page_31_img_5_healthy.jpg,31,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"31
+Upon stimulation by viruses (e.g., adenovirus), protozoa (e.g., Toxoplasma
+gondii), drug reactions, connective tissue diseases, and other stimuli,
+lymphocytes may undergo proliferation and morphological changes such as
+cell swelling, increased, cytoplasm, enhanced basophilia, and nuclear
+blastogenesis. Such lymphocytes are referred to as ""reactive lymphocytes"".
+They fall into three types depending on the morphological characteristics.
+Type I (vacuolated) is also known as foam cell or plasma cell type, type II
+(irregular) as monocytic type, and type III (naive) as immature cell type or
+prolymphocyte type.
+Reactive Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_31_img_7_healthy.jpg,page_31_img_7_healthy.jpg,31,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"31
+Upon stimulation by viruses (e.g., adenovirus), protozoa (e.g., Toxoplasma
+gondii), drug reactions, connective tissue diseases, and other stimuli,
+lymphocytes may undergo proliferation and morphological changes such as
+cell swelling, increased, cytoplasm, enhanced basophilia, and nuclear
+blastogenesis. Such lymphocytes are referred to as ""reactive lymphocytes"".
+They fall into three types depending on the morphological characteristics.
+Type I (vacuolated) is also known as foam cell or plasma cell type, type II
+(irregular) as monocytic type, and type III (naive) as immature cell type or
+prolymphocyte type.
+Reactive Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_31_img_8_healthy.jpg,page_31_img_8_healthy.jpg,31,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"31
+Upon stimulation by viruses (e.g., adenovirus), protozoa (e.g., Toxoplasma
+gondii), drug reactions, connective tissue diseases, and other stimuli,
+lymphocytes may undergo proliferation and morphological changes such as
+cell swelling, increased, cytoplasm, enhanced basophilia, and nuclear
+blastogenesis. Such lymphocytes are referred to as ""reactive lymphocytes"".
+They fall into three types depending on the morphological characteristics.
+Type I (vacuolated) is also known as foam cell or plasma cell type, type II
+(irregular) as monocytic type, and type III (naive) as immature cell type or
+prolymphocyte type.
+Reactive Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_32_img_2_healthy.jpg,page_32_img_2_healthy.jpg,32,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"32
+The increase in reactive lymphocytes is typically seen in viral and allergic
+diseases such as infectious mononucleosis, viral hepatitis, epidemic
+hemorrhagic fever, and eczema.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_32_img_3_healthy.jpg,page_32_img_3_healthy.jpg,32,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"32
+The increase in reactive lymphocytes is typically seen in viral and allergic
+diseases such as infectious mononucleosis, viral hepatitis, epidemic
+hemorrhagic fever, and eczema.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_32_img_4_healthy.jpg,page_32_img_4_healthy.jpg,32,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"32
+The increase in reactive lymphocytes is typically seen in viral and allergic
+diseases such as infectious mononucleosis, viral hepatitis, epidemic
+hemorrhagic fever, and eczema.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_32_img_8_healthy.jpg,page_32_img_8_healthy.jpg,32,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"32
+The increase in reactive lymphocytes is typically seen in viral and allergic
+diseases such as infectious mononucleosis, viral hepatitis, epidemic
+hemorrhagic fever, and eczema.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_32_img_10_healthy.jpg,page_32_img_10_healthy.jpg,32,Reactive Lymphocytes,healthy,Activated but benign lymphocytes,"32
+The increase in reactive lymphocytes is typically seen in viral and allergic
+diseases such as infectious mononucleosis, viral hepatitis, epidemic
+hemorrhagic fever, and eczema.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_33_img_3_leukemia.jpg,page_33_img_3_leukemia.jpg,33,Abnormal Lymphocytes,leukemia,Malignant lymphocytes,"33
+Abnormal lymphocytes, or atypical lymphocytes — suspected neoplastic
+are often used to describe the lymphocytic changes due to suspected
+malignant and monoclonal etiology. Abnormal lymphocytes are typically
+seen in Malignancies such as leukemia and lymphoma. These cells tend to
+exhibit a variable but highly homogeneous morphology in the blood of one
+patient, making it difficult to distinguish them from reactive
+lymphocytes.Any peripheral blood smear with suspected hairy cells,
+lymphoma cells, or prolymphocytes for the first time can be reported as
+abnormal lymphocytes, which is ultimately determined by flow cytometry
+immunophenotyping.
+Abnormal Lymphocytes
+Sézary Cells
+Sézary cells are mature peripheral lymphoma T cells cells. They are
+anucleated, vary in size, and comprise coarse and dense chromatin. The cells
+have polymorphic nuclei that are twisted, deformed or lobulated, or folded
+like ""brain gyrus"", with scant cytoplasm in a blue or pale blue color.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_33_img_4_leukemia.jpg,page_33_img_4_leukemia.jpg,33,Abnormal Lymphocytes,leukemia,Malignant lymphocytes,"33
+Abnormal lymphocytes, or atypical lymphocytes — suspected neoplastic
+are often used to describe the lymphocytic changes due to suspected
+malignant and monoclonal etiology. Abnormal lymphocytes are typically
+seen in Malignancies such as leukemia and lymphoma. These cells tend to
+exhibit a variable but highly homogeneous morphology in the blood of one
+patient, making it difficult to distinguish them from reactive
+lymphocytes.Any peripheral blood smear with suspected hairy cells,
+lymphoma cells, or prolymphocytes for the first time can be reported as
+abnormal lymphocytes, which is ultimately determined by flow cytometry
+immunophenotyping.
+Abnormal Lymphocytes
+Sézary Cells
+Sézary cells are mature peripheral lymphoma T cells cells. They are
+anucleated, vary in size, and comprise coarse and dense chromatin. The cells
+have polymorphic nuclei that are twisted, deformed or lobulated, or folded
+like ""brain gyrus"", with scant cytoplasm in a blue or pale blue color.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_33_img_5_leukemia.jpg,page_33_img_5_leukemia.jpg,33,Abnormal Lymphocytes,leukemia,Malignant lymphocytes,"33
+Abnormal lymphocytes, or atypical lymphocytes — suspected neoplastic
+are often used to describe the lymphocytic changes due to suspected
+malignant and monoclonal etiology. Abnormal lymphocytes are typically
+seen in Malignancies such as leukemia and lymphoma. These cells tend to
+exhibit a variable but highly homogeneous morphology in the blood of one
+patient, making it difficult to distinguish them from reactive
+lymphocytes.Any peripheral blood smear with suspected hairy cells,
+lymphoma cells, or prolymphocytes for the first time can be reported as
+abnormal lymphocytes, which is ultimately determined by flow cytometry
+immunophenotyping.
+Abnormal Lymphocytes
+Sézary Cells
+Sézary cells are mature peripheral lymphoma T cells cells. They are
+anucleated, vary in size, and comprise coarse and dense chromatin. The cells
+have polymorphic nuclei that are twisted, deformed or lobulated, or folded
+like ""brain gyrus"", with scant cytoplasm in a blue or pale blue color.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_34_img_2_leukemia.jpg,page_34_img_2_leukemia.jpg,34,Lymphoma Cells,leukemia,Malignant lymphoma cells,"34
+Lymphoma Cells
+Lymphoma cells are malignant cells originating from T, B, or NK cells. The cell
+morphology is quite diverse and often exhibits the following characteristics:
+The cells vary significantly in size with regular or irregular shapes, and The
+cells vary significantly in size with regular or irregular shapes, and the
+nucleus is typically indented, twisted, folded, or has cut marks. the thickness
+of the chromatin is variable, with or without nucleolus; the cytoplasm may
+be abundant or scant, with a deep blue color, and sometimes with visible
+granules and vacuoles.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_34_img_6_leukemia.jpg,page_34_img_6_leukemia.jpg,34,Lymphoma Cells,leukemia,Malignant lymphoma cells,"34
+Lymphoma Cells
+Lymphoma cells are malignant cells originating from T, B, or NK cells. The cell
+morphology is quite diverse and often exhibits the following characteristics:
+The cells vary significantly in size with regular or irregular shapes, and The
+cells vary significantly in size with regular or irregular shapes, and the
+nucleus is typically indented, twisted, folded, or has cut marks. the thickness
+of the chromatin is variable, with or without nucleolus; the cytoplasm may
+be abundant or scant, with a deep blue color, and sometimes with visible
+granules and vacuoles.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_34_img_7_leukemia.jpg,page_34_img_7_leukemia.jpg,34,Lymphoma Cells,leukemia,Malignant lymphoma cells,"34
+Lymphoma Cells
+Lymphoma cells are malignant cells originating from T, B, or NK cells. The cell
+morphology is quite diverse and often exhibits the following characteristics:
+The cells vary significantly in size with regular or irregular shapes, and The
+cells vary significantly in size with regular or irregular shapes, and the
+nucleus is typically indented, twisted, folded, or has cut marks. the thickness
+of the chromatin is variable, with or without nucleolus; the cytoplasm may
+be abundant or scant, with a deep blue color, and sometimes with visible
+granules and vacuoles.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_35_img_3_leukemia.jpg,page_35_img_3_leukemia.jpg,35,Prolymphocytes,leukemia,Malignant prolymphocytes,"35
+Prolymphocytes
+Lymphoblasts or prolymphocytes are present in the peripheral blood.
+Prolymphocytes are large cells, 12–14 μm in diameter, with medium amount
+of cytoplasm in a pale blue color and a decreased nuclear-cytoplasm ratio.
+Their nucleus is generally round or oval with dense chromatin, either
+granular or clumpy, coarser than that of lymphoblasts but finer than that of
+mature lymphocytes. Typically, each prolymphocyte has a single large
+vesicular nucleolus. Prolymphocytes are typically seen in acute or chronic
+lymphocytic leukemia, viral infections, and lymphocytic leukemoid reactions.
+Abnormal Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_35_img_4_leukemia.jpg,page_35_img_4_leukemia.jpg,35,Prolymphocytes,leukemia,Malignant prolymphocytes,"35
+Prolymphocytes
+Lymphoblasts or prolymphocytes are present in the peripheral blood.
+Prolymphocytes are large cells, 12–14 μm in diameter, with medium amount
+of cytoplasm in a pale blue color and a decreased nuclear-cytoplasm ratio.
+Their nucleus is generally round or oval with dense chromatin, either
+granular or clumpy, coarser than that of lymphoblasts but finer than that of
+mature lymphocytes. Typically, each prolymphocyte has a single large
+vesicular nucleolus. Prolymphocytes are typically seen in acute or chronic
+lymphocytic leukemia, viral infections, and lymphocytic leukemoid reactions.
+Abnormal Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_35_img_5_leukemia.jpg,page_35_img_5_leukemia.jpg,35,Prolymphocytes,leukemia,Malignant prolymphocytes,"35
+Prolymphocytes
+Lymphoblasts or prolymphocytes are present in the peripheral blood.
+Prolymphocytes are large cells, 12–14 μm in diameter, with medium amount
+of cytoplasm in a pale blue color and a decreased nuclear-cytoplasm ratio.
+Their nucleus is generally round or oval with dense chromatin, either
+granular or clumpy, coarser than that of lymphoblasts but finer than that of
+mature lymphocytes. Typically, each prolymphocyte has a single large
+vesicular nucleolus. Prolymphocytes are typically seen in acute or chronic
+lymphocytic leukemia, viral infections, and lymphocytic leukemoid reactions.
+Abnormal Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_35_img_6_leukemia.jpg,page_35_img_6_leukemia.jpg,35,Prolymphocytes,leukemia,Malignant prolymphocytes,"35
+Prolymphocytes
+Lymphoblasts or prolymphocytes are present in the peripheral blood.
+Prolymphocytes are large cells, 12–14 μm in diameter, with medium amount
+of cytoplasm in a pale blue color and a decreased nuclear-cytoplasm ratio.
+Their nucleus is generally round or oval with dense chromatin, either
+granular or clumpy, coarser than that of lymphoblasts but finer than that of
+mature lymphocytes. Typically, each prolymphocyte has a single large
+vesicular nucleolus. Prolymphocytes are typically seen in acute or chronic
+lymphocytic leukemia, viral infections, and lymphocytic leukemoid reactions.
+Abnormal Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_35_img_7_leukemia.jpg,page_35_img_7_leukemia.jpg,35,Prolymphocytes,leukemia,Malignant prolymphocytes,"35
+Prolymphocytes
+Lymphoblasts or prolymphocytes are present in the peripheral blood.
+Prolymphocytes are large cells, 12–14 μm in diameter, with medium amount
+of cytoplasm in a pale blue color and a decreased nuclear-cytoplasm ratio.
+Their nucleus is generally round or oval with dense chromatin, either
+granular or clumpy, coarser than that of lymphoblasts but finer than that of
+mature lymphocytes. Typically, each prolymphocyte has a single large
+vesicular nucleolus. Prolymphocytes are typically seen in acute or chronic
+lymphocytic leukemia, viral infections, and lymphocytic leukemoid reactions.
+Abnormal Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_35_img_8_leukemia.jpg,page_35_img_8_leukemia.jpg,35,Prolymphocytes,leukemia,Malignant prolymphocytes,"35
+Prolymphocytes
+Lymphoblasts or prolymphocytes are present in the peripheral blood.
+Prolymphocytes are large cells, 12–14 μm in diameter, with medium amount
+of cytoplasm in a pale blue color and a decreased nuclear-cytoplasm ratio.
+Their nucleus is generally round or oval with dense chromatin, either
+granular or clumpy, coarser than that of lymphoblasts but finer than that of
+mature lymphocytes. Typically, each prolymphocyte has a single large
+vesicular nucleolus. Prolymphocytes are typically seen in acute or chronic
+lymphocytic leukemia, viral infections, and lymphocytic leukemoid reactions.
+Abnormal Lymphocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_36_img_6_leukemia.jpg,page_36_img_6_leukemia.jpg,36,Hairy Cells,leukemia,Hairy cell leukemia cells,"36
+Hairy Cells
+Hairy cells are about two times larger than mature lymphocytes. The nucleus
+is round, oval, or indented and mildly folded. It is large and in the center of
+the cell or slightly deviated. Hairy cells have abundant cytoplasm with a blue
+or pale blue cloudy appearance. A prominent feature of hairy cells is the
+uneven margins with many irregular ciliated protrusions, also called ""hair-
+like"" protrusions, which are apparent when intravital staining is performed.
+Characteristic hairy cells are present in 90% of hairy cell leukemia. Hairy cells
+first identified in a blood smear should be counted as abnormal
+lymphocytes and the morphological features should be described in detail.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_37_img_3_leukemia.jpg,page_37_img_3_leukemia.jpg,37,Plasma Cells,leukemia,Abnormal plasma cells,"37
+Mature plasma cells vary in size with diameters ranging from 8 to 15 μm.
+They generally have a small and eccentric nucleus, which is round and
+accounts for less than 1/3 of the volume. The chromatin is agglomerated
+into large blocks in which parachromatin is visible. The cells are anucleolate
+and their cytoplasm is deep blue and opaque, often with numerous
+vacuoles (foamy cytoplasm). Typically, a distinct perinuclear halo area next to
+the nucleus is visible.
+Plasma Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_37_img_4_leukemia.jpg,page_37_img_4_leukemia.jpg,37,Plasma Cells,leukemia,Abnormal plasma cells,"37
+Mature plasma cells vary in size with diameters ranging from 8 to 15 μm.
+They generally have a small and eccentric nucleus, which is round and
+accounts for less than 1/3 of the volume. The chromatin is agglomerated
+into large blocks in which parachromatin is visible. The cells are anucleolate
+and their cytoplasm is deep blue and opaque, often with numerous
+vacuoles (foamy cytoplasm). Typically, a distinct perinuclear halo area next to
+the nucleus is visible.
+Plasma Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_37_img_5_leukemia.jpg,page_37_img_5_leukemia.jpg,37,Plasma Cells,leukemia,Abnormal plasma cells,"37
+Mature plasma cells vary in size with diameters ranging from 8 to 15 μm.
+They generally have a small and eccentric nucleus, which is round and
+accounts for less than 1/3 of the volume. The chromatin is agglomerated
+into large blocks in which parachromatin is visible. The cells are anucleolate
+and their cytoplasm is deep blue and opaque, often with numerous
+vacuoles (foamy cytoplasm). Typically, a distinct perinuclear halo area next to
+the nucleus is visible.
+Plasma Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_37_img_6_leukemia.jpg,page_37_img_6_leukemia.jpg,37,Plasma Cells,leukemia,Abnormal plasma cells,"37
+Mature plasma cells vary in size with diameters ranging from 8 to 15 μm.
+They generally have a small and eccentric nucleus, which is round and
+accounts for less than 1/3 of the volume. The chromatin is agglomerated
+into large blocks in which parachromatin is visible. The cells are anucleolate
+and their cytoplasm is deep blue and opaque, often with numerous
+vacuoles (foamy cytoplasm). Typically, a distinct perinuclear halo area next to
+the nucleus is visible.
+Plasma Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_37_img_7_leukemia.jpg,page_37_img_7_leukemia.jpg,37,Plasma Cells,leukemia,Abnormal plasma cells,"37
+Mature plasma cells vary in size with diameters ranging from 8 to 15 μm.
+They generally have a small and eccentric nucleus, which is round and
+accounts for less than 1/3 of the volume. The chromatin is agglomerated
+into large blocks in which parachromatin is visible. The cells are anucleolate
+and their cytoplasm is deep blue and opaque, often with numerous
+vacuoles (foamy cytoplasm). Typically, a distinct perinuclear halo area next to
+the nucleus is visible.
+Plasma Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_37_img_8_leukemia.jpg,page_37_img_8_leukemia.jpg,37,Plasma Cells,leukemia,Abnormal plasma cells,"37
+Mature plasma cells vary in size with diameters ranging from 8 to 15 μm.
+They generally have a small and eccentric nucleus, which is round and
+accounts for less than 1/3 of the volume. The chromatin is agglomerated
+into large blocks in which parachromatin is visible. The cells are anucleolate
+and their cytoplasm is deep blue and opaque, often with numerous
+vacuoles (foamy cytoplasm). Typically, a distinct perinuclear halo area next to
+the nucleus is visible.
+Plasma Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_2_leukemia.jpg,page_38_img_2_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_3_leukemia.jpg,page_38_img_3_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_4_leukemia.jpg,page_38_img_4_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_5_leukemia.jpg,page_38_img_5_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_6_leukemia.jpg,page_38_img_6_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_7_leukemia.jpg,page_38_img_7_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_8_leukemia.jpg,page_38_img_8_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_9_leukemia.jpg,page_38_img_9_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_38_img_10_leukemia.jpg,page_38_img_10_leukemia.jpg,38,Myeloma Cells,leukemia,Multiple myeloma cells,"38
+Plasma cells are generally not found in peripheral blood smears of healthy
+individuals. A small number of abnormal plasma cells (myeloma cells) are
+visible in the peripheral blood of patients with multiple myeloma. Typical
+myeloma cells are larger than mature plasma cells, irregular in shape, and
+may have pseudopods. The cells have a large nucleus, loose and delicate
+chromatin, one to two large and obvious nucleoli, and abundant blue
+cytoplasm. Abnormal plasma cells may also be found in the peripheral
+blood of patients with plasma cell leukemia.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_41_img_3_leukemia.jpg,page_41_img_3_leukemia.jpg,41,Megakaryocytes,leukemia,Abnormal megakaryocytes in blood,"41
+Generally, megakaryocytes are not found in the peripheral blood of healthy
+individuals. Some pathological megakaryocytes characterized by abnormal
+nuclei, such as small megakaryocytes, lymphoid megakaryocytes, and
+binucleated megakaryocytes, can be observed in patients with acute
+megakaryocytic leukemia, MDS, MPN, MDS/MPN, AML and malignancies.
+Megakaryocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_41_img_4_leukemia.jpg,page_41_img_4_leukemia.jpg,41,Megakaryocytes,leukemia,Abnormal megakaryocytes in blood,"41
+Generally, megakaryocytes are not found in the peripheral blood of healthy
+individuals. Some pathological megakaryocytes characterized by abnormal
+nuclei, such as small megakaryocytes, lymphoid megakaryocytes, and
+binucleated megakaryocytes, can be observed in patients with acute
+megakaryocytic leukemia, MDS, MPN, MDS/MPN, AML and malignancies.
+Megakaryocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_41_img_5_leukemia.jpg,page_41_img_5_leukemia.jpg,41,Megakaryocytes,leukemia,Abnormal megakaryocytes in blood,"41
+Generally, megakaryocytes are not found in the peripheral blood of healthy
+individuals. Some pathological megakaryocytes characterized by abnormal
+nuclei, such as small megakaryocytes, lymphoid megakaryocytes, and
+binucleated megakaryocytes, can be observed in patients with acute
+megakaryocytic leukemia, MDS, MPN, MDS/MPN, AML and malignancies.
+Megakaryocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_41_img_6_leukemia.jpg,page_41_img_6_leukemia.jpg,41,Megakaryocytes,leukemia,Abnormal megakaryocytes in blood,"41
+Generally, megakaryocytes are not found in the peripheral blood of healthy
+individuals. Some pathological megakaryocytes characterized by abnormal
+nuclei, such as small megakaryocytes, lymphoid megakaryocytes, and
+binucleated megakaryocytes, can be observed in patients with acute
+megakaryocytic leukemia, MDS, MPN, MDS/MPN, AML and malignancies.
+Megakaryocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_41_img_7_leukemia.jpg,page_41_img_7_leukemia.jpg,41,Megakaryocytes,leukemia,Abnormal megakaryocytes in blood,"41
+Generally, megakaryocytes are not found in the peripheral blood of healthy
+individuals. Some pathological megakaryocytes characterized by abnormal
+nuclei, such as small megakaryocytes, lymphoid megakaryocytes, and
+binucleated megakaryocytes, can be observed in patients with acute
+megakaryocytic leukemia, MDS, MPN, MDS/MPN, AML and malignancies.
+Megakaryocytes",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_2_leukemia.jpg,page_42_img_2_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_3_leukemia.jpg,page_42_img_3_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_4_leukemia.jpg,page_42_img_4_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_5_leukemia.jpg,page_42_img_5_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_6_leukemia.jpg,page_42_img_6_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_7_leukemia.jpg,page_42_img_7_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_8_leukemia.jpg,page_42_img_8_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_9_leukemia.jpg,page_42_img_9_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_42_img_10_leukemia.jpg,page_42_img_10_leukemia.jpg,42,Small Megakaryocytes,leukemia,Abnormal small megakaryocytes,"42
+Small megakaryocytes: Some of them are similar to lymphocytes in size (i.e.
+lymph-like small megakaryocytes), with a diameter of 5–8 μm. They are
+typically mononucleated and anucleolate, and round or oval in shape, with
+scanty, pale blue cytoplasm that may contain a variable number of violet-
+red granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_43_img_3_healthy.jpg,page_43_img_3_healthy.jpg,43,Nucleated RBC,healthy,Immature red blood cells,"43
+Nucleated red blood cells (nucleated erythrocytes, normoblasts,
+erythroblasts) refer to red blood cells that undergo four stages, i.e.,
+pronormoblasts, basophilic normoblasts, polychromatic normoblasts,and
+orthochromatic normoblasts, before they develop into mature cells.
+Nucleated Red Blood Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_43_img_4_healthy.jpg,page_43_img_4_healthy.jpg,43,Nucleated RBC,healthy,Immature red blood cells,"43
+Nucleated red blood cells (nucleated erythrocytes, normoblasts,
+erythroblasts) refer to red blood cells that undergo four stages, i.e.,
+pronormoblasts, basophilic normoblasts, polychromatic normoblasts,and
+orthochromatic normoblasts, before they develop into mature cells.
+Nucleated Red Blood Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_43_img_5_healthy.jpg,page_43_img_5_healthy.jpg,43,Nucleated RBC,healthy,Immature red blood cells,"43
+Nucleated red blood cells (nucleated erythrocytes, normoblasts,
+erythroblasts) refer to red blood cells that undergo four stages, i.e.,
+pronormoblasts, basophilic normoblasts, polychromatic normoblasts,and
+orthochromatic normoblasts, before they develop into mature cells.
+Nucleated Red Blood Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_43_img_6_healthy.jpg,page_43_img_6_healthy.jpg,43,Nucleated RBC,healthy,Immature red blood cells,"43
+Nucleated red blood cells (nucleated erythrocytes, normoblasts,
+erythroblasts) refer to red blood cells that undergo four stages, i.e.,
+pronormoblasts, basophilic normoblasts, polychromatic normoblasts,and
+orthochromatic normoblasts, before they develop into mature cells.
+Nucleated Red Blood Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_43_img_7_healthy.jpg,page_43_img_7_healthy.jpg,43,Nucleated RBC,healthy,Immature red blood cells,"43
+Nucleated red blood cells (nucleated erythrocytes, normoblasts,
+erythroblasts) refer to red blood cells that undergo four stages, i.e.,
+pronormoblasts, basophilic normoblasts, polychromatic normoblasts,and
+orthochromatic normoblasts, before they develop into mature cells.
+Nucleated Red Blood Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_43_img_8_healthy.jpg,page_43_img_8_healthy.jpg,43,Nucleated RBC,healthy,Immature red blood cells,"43
+Nucleated red blood cells (nucleated erythrocytes, normoblasts,
+erythroblasts) refer to red blood cells that undergo four stages, i.e.,
+pronormoblasts, basophilic normoblasts, polychromatic normoblasts,and
+orthochromatic normoblasts, before they develop into mature cells.
+Nucleated Red Blood Cells",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_44_img_4_healthy.jpg,page_44_img_4_healthy.jpg,44,Nucleated RBC,healthy,Immature red blood cells,"44
+The cells are generally regular, round or round-like, with verrucous
+protrusions seen in pronormoblasts and basophilic normoblasts. The
+nucleus is round and generally centered, and denucleation is observed in
+orthochromatic normoblasts. The cytoplasm changes its color from deep
+blue →blue-gray →gray-red →pale red, and contains no granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_44_img_5_healthy.jpg,page_44_img_5_healthy.jpg,44,Nucleated RBC,healthy,Immature red blood cells,"44
+The cells are generally regular, round or round-like, with verrucous
+protrusions seen in pronormoblasts and basophilic normoblasts. The
+nucleus is round and generally centered, and denucleation is observed in
+orthochromatic normoblasts. The cytoplasm changes its color from deep
+blue →blue-gray →gray-red →pale red, and contains no granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_44_img_6_healthy.jpg,page_44_img_6_healthy.jpg,44,Nucleated RBC,healthy,Immature red blood cells,"44
+The cells are generally regular, round or round-like, with verrucous
+protrusions seen in pronormoblasts and basophilic normoblasts. The
+nucleus is round and generally centered, and denucleation is observed in
+orthochromatic normoblasts. The cytoplasm changes its color from deep
+blue →blue-gray →gray-red →pale red, and contains no granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_44_img_7_healthy.jpg,page_44_img_7_healthy.jpg,44,Nucleated RBC,healthy,Immature red blood cells,"44
+The cells are generally regular, round or round-like, with verrucous
+protrusions seen in pronormoblasts and basophilic normoblasts. The
+nucleus is round and generally centered, and denucleation is observed in
+orthochromatic normoblasts. The cytoplasm changes its color from deep
+blue →blue-gray →gray-red →pale red, and contains no granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_44_img_9_healthy.jpg,page_44_img_9_healthy.jpg,44,Nucleated RBC,healthy,Immature red blood cells,"44
+The cells are generally regular, round or round-like, with verrucous
+protrusions seen in pronormoblasts and basophilic normoblasts. The
+nucleus is round and generally centered, and denucleation is observed in
+orthochromatic normoblasts. The cytoplasm changes its color from deep
+blue →blue-gray →gray-red →pale red, and contains no granules.",Blood Cell Atlas PDF
+/content/blood_cell_dataset/images/page_44_img_10_healthy.jpg,page_44_img_10_healthy.jpg,44,Nucleated RBC,healthy,Immature red blood cells,"44
+The cells are generally regular, round or round-like, with verrucous
+protrusions seen in pronormoblasts and basophilic normoblasts. The
+nucleus is round and generally centered, and denucleation is observed in
+orthochromatic normoblasts. The cytoplasm changes its color from deep
+blue →blue-gray →gray-red →pale red, and contains no granules.",Blood Cell Atlas PDF
