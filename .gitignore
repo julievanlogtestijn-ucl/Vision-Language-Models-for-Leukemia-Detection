@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# Allow code and key text files
+!*.py
+!*.ipynb
+!.gitignore
+!README.md
+!requirements.txt
+!environment.yml
+
+# Ignore caches, envs, and system stuff
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# If we want to add certain outputs later: !Finetune_BLIP/
